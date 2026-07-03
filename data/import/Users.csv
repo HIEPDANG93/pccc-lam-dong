@@ -1,0 +1,6 @@
+email,name,role,status
+admin@example.com,Quản trị hệ thống,admin,active
+canbo@example.com,Cán bộ phụ trách,canbo,active
+canbo2@example.com,Tổ kiểm tra Bảo Lộc,canbo,active
+canbo3@example.com,Tổ kiểm tra Đức Trọng,canbo,active
+viewer@example.com,Tài khoản xem,viewer,active

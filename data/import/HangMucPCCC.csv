@@ -1,0 +1,7 @@
+id,group,content,required
+PCCC-001,Hồ sơ,"Hồ sơ quản lý, theo dõi hoạt động PCCC được lập và cập nhật",TRUE
+PCCC-002,Lối thoát nạn,"Lối thoát nạn thông thoáng, có đèn chỉ dẫn và biển báo",TRUE
+PCCC-003,Điện,"Hệ thống điện, aptomat và dây dẫn bảo đảm an toàn",TRUE
+PCCC-004,Phương tiện,"Bình chữa cháy, chuông báo, vòi nước và phương tiện tại chỗ còn hiệu lực",TRUE
+PCCC-005,Tập huấn,"Nhân viên được huấn luyện nghiệp vụ PCCC và cứu nạn cứu hộ",FALSE
+PCCC-006,Khắc phục,"Các kiến nghị lần trước đã được khắc phục đúng hạn",FALSE
